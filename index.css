@@ -1,0 +1,85 @@
+body{
+  background-color: rgb(214, 224, 164);
+}
+#table button{
+  cursor: pointer;
+
+}
+#container{
+  text-align: center;
+  margin-top: 16px;
+  width: auto;
+  
+
+  
+}
+
+#container input {
+
+  background-color:rgb(67, 219, 56);
+width: 500px;
+  padding: 20px;
+margin-bottom: 50px;
+height: 50px;
+ box-shadow: 0 0.5rem 0.7rem 0.5rem rgb(232, 167, 229);
+  border-radius: 40px;
+  border: 1px solid rgb(192, 200, 255);
+
+  color: rgb(16, 148, 95);
+font-size: larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-decoration: solid;
+}
+#container input:hover {
+  background-color:rgb(152, 233, 251);
+
+ 
+}
+#table{
+
+ 
+  margin: auto;
+}
+
+#container #table tr td{
+  padding:10px;
+  
+}
+#container #table tr td button{
+  padding:20px;
+  
+}
+#container #table tr td button{
+  padding:20px;
+  border-radius: 10px;
+  background-color: rgb(136, 183, 186);
+  border: 1px solid white;
+
+/* box-shadow: 0 0.5rem 0.7rem 0.5rem rgb(239, 100, 229); */
+
+
+  
+}
+ #container #table tr td button:hover{
+ 
+  /* background-color: rgb(255, 0, 208); */
+box-shadow: 0 0.5rem 0.4rem 0.1rem rgb(231, 23, 182);
+  
+  
+}
+
+
+
+  
+#parwez{
+
+ width:55rem;
+    height:15rem;
+    background-color:white;
+    border-radius: 2rem;
+    box-shadow: 0 1.2rem 3rem 0.5rem rgb(155, 8, 147);
+    padding: 3rem;
+    text-align: center;
+ 
+}
+ 
